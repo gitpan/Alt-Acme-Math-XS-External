@@ -1,0 +1,6 @@
+---
+version: 0.0.1
+date:    Mon Dec 22 14:25:15 EST 2014
+changes:
+- First Release
+- Use external C file with Inline::C
